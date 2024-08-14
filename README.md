@@ -2,58 +2,65 @@
   <img src="https://i.ibb.co/QvTXTm8/1723246032395.jpg" alt="Researcher in Risk Management & Insurance @TUM | Software Engineer" width="600"/>
 </p>
 
-<h1 align="center">Hi there, I'm Andrei Craciunescu 👋</h1>
-<h3 align="center">Researcher in AI Applications for Risk Management & Insurance @TUM | Software Engineer</h3>
+# Hello, I'm Andrei Craciunescu! 👋
 
-<p align="center">
-I specialize in AI applications for risk management and insurance. With over six years of experience spanning the insurance sector—from reinsurers and insurers to commercial insurance brokers—coupled with my research background, I bring a unique perspective to the industry. Driven by curiosity, I'm constantly learning about new developments in risk and AI technology.
-</p>
+Welcome to my GitHub profile. I am a researcher and software engineer with a focus on AI applications in risk management and insurance. With extensive experience across the insurance industry and a strong background in software development, I bring a unique perspective to tackling complex risk challenges.
 
----
 
-### 🔗 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/andrei-craciunescu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40"/>
-  </a>
-</p>
+## About Me
 
----
+- 💼 **Professional Background:**
+  - **Researcher in Risk Management & Insurance** at the Technical University of Munich (TUM)
+  - **Software Engineer** specializing in AI, data science, and analytics
+  - Experience spanning reinsurers, insurers, and commercial insurance brokers
+  - Co-Founder of a Stealth Startup focused on Generative AI
 
-### 🛠️ Languages & Tools:
-<p align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="50" height="50"/>
-  </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/>
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="50"/>
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="50"/>
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="50" height="50"/>
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
-  </a>
-</p>
+- 🌟 **Current Research:**
+  - Neural Networks and Quantitative Risk Management
+  - Risk quantification models and Semi-Markov modeling for cancer insurance
+  - Numerical Methods for Neural Networks
 
----
+- 🔍 **Interests:**
+  - AI applications in risk management
+  - Advancements in automated underwriting systems
+  - Exploring new technologies and their applications in insurance
 
-### 🌱 Current Focus:
-<p align="center">
-I'm currently exploring cutting-edge AI methodologies to streamline underwriting processes and enhance risk assessment models within the insurance industry. My goal is to apply innovative AI-driven solutions to improve operational efficiency and risk evaluation.
-</p>
+## Skills
+
+- **Artificial Intelligence (AI):** Expertise in developing and applying AI technologies for risk management.
+- **Software Development:** Proficient in designing and implementing software solutions.
+- **Automated Underwriting Systems:** Experience in creating and optimizing underwriting systems.
+- **Enterprise Software Sales:** Skilled in sales and implementation of enterprise software solutions.
+
+## Projects
+
+Here are some of the key projects I’m involved in:
+
+- **[PhD Research on Risk Management](link-to-research)**: Developing models for risk quantification and exploring new methods in risk management.
+- **[Generative AI Startup](link-to-startup)**: Co-founding a startup focused on Generative AI and its applications.
+
+## Recent Posts
+
+- **[AI Conference in Dublin Highlights](link-to-post)**: Insights from the European AI conference and developments in the tech scene.
+- **[Munich Re Seminar on (Re)Insurance](link-to-post)**: Participation in a seminar bridging theoretical knowledge and real-world applications in insurance.
+
+## Connect With Me
+
+- **LinkedIn:** [Andrei Craciunescu](https://www.linkedin.com/in/andrei-craciunescu)
+- **Twitter:** [@AndreiCraciun](https://twitter.com/AndreiCraciun)
+- **Email:** andrei.craciunescu@example.com
+
+## Education
+
+- **PhD in Risk Management & Insurance** - Technical University of Munich
+- **Master of Science in Mathematics** - Ludwig-Maximilians-Universität München
+- **Bachelor of Science in Mathematics** - Julius Maximilians University of Würzburg
+
+## Certifications
+
+- **[Microsoft 365 Copilot: Personal Productivity for All](link-to-certification)** - Coursera
+- **[Prompt Engineering for ChatGPT](link-to-certification)** - Coursera
+
+Thank you for visiting my profile! If you’re interested in discussing risk management, AI, or have any other questions, feel free to reach out.
+
+Happy coding! 🚀
