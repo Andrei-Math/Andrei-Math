@@ -13,7 +13,7 @@ Welcome to my GitHub profile. I am a researcher and software engineer with a foc
   - **Researcher in Risk Management & Insurance** at the Technical University of Munich (TUM)
   - **Software Engineer** specializing in AI, data science, and analytics
   - Experience spanning reinsurers, insurers, and commercial insurance brokers
-  - Co-Founder of a Stealth Startup focused on Generative AI
+  - Co-Founder of a Stealth Startup focused Climate Tech
 
 - 🌟 **Current Research:**
   - Neural Networks and Quantitative Risk Management
@@ -47,19 +47,14 @@ Here are some of the key projects I’m involved in:
 ## Connect With Me
 
 - **LinkedIn:** [Andrei Craciunescu](https://www.linkedin.com/in/andrei-craciunescu)
-- **Twitter:** [@AndreiCraciun](https://twitter.com/AndreiCraciun)
-- **Email:** andrei.craciunescu@example.com
+- **Email:** andrei.craciunescu@tum.de
 
 ## Education
 
 - **PhD in Risk Management & Insurance** - Technical University of Munich
-- **Master of Science in Mathematics** - Ludwig-Maximilians-Universität München
+- **Master of Science in Mathematics** - University of Munich (LMU)
 - **Bachelor of Science in Mathematics** - Julius Maximilians University of Würzburg
 
-## Certifications
-
-- **[Microsoft 365 Copilot: Personal Productivity for All](link-to-certification)** - Coursera
-- **[Prompt Engineering for ChatGPT](link-to-certification)** - Coursera
 
 Thank you for visiting my profile! If you’re interested in discussing risk management, AI, or have any other questions, feel free to reach out.
 
