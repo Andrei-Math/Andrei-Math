@@ -2,7 +2,7 @@
   <img src="https://i.ibb.co/QvTXTm8/1723246032395.jpg" alt="Researcher in Risk Management & Insurance @TUM | Software Engineer" width="600"/>
 </p>
 
-# Hello, I'm Andrei Craciunescu! 👋
+# Hello, I'm Andrei! 👋
 
 Welcome to my GitHub profile. I am a researcher and software engineer with a focus on AI applications in risk management and insurance. With extensive experience across the insurance industry and a strong background in software development, I bring a unique perspective to tackling complex risk challenges.
 
