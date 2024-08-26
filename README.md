@@ -44,7 +44,7 @@ Welcome to my GitHub profile. I am a researcher and software engineer with a foc
 
 ## Education
 
-- **PhD in Risk Management & Insurance** - Technical University of Munich
+- **PhD Candidate in Risk Management & Insurance** - Technical University of Munich
 - **Master of Science in Mathematics** - University of Munich (LMU)
 - **Bachelor of Science in Mathematics** - Julius Maximilians University of Würzburg
 
