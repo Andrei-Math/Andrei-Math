@@ -32,13 +32,6 @@ Welcome to my GitHub profile. I am a researcher and software engineer with a foc
 - **Automated Underwriting Systems:** Experience in creating and optimizing underwriting systems.
 - **Enterprise Software Sales:** Skilled in sales and implementation of enterprise software solutions.
 
-## Projects
-
-Here are some of the key projects I’m involved in:
-
-- **[PhD Research on Risk Management](link-to-research)**: Developing models for risk quantification and exploring new methods in risk management.
-- **[Generative AI Startup](link-to-startup)**: Co-founding a startup focused on Generative AI and its applications.
-
 ## Recent Posts
 
 - **[AI Conference in Dublin Highlights](link-to-post)**: Insights from the European AI conference and developments in the tech scene.
